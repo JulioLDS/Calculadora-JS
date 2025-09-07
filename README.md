@@ -1,14 +1,13 @@
-# ✅ Lista de Tarefas - Perry, o Ornitorrinco
+# 🧮 Calculadora Web
 
-Lista de tarefas desenvolvida com HTML, CSS e JavaScript, com design inspirado no personagem Perry, o Ornitorrinco, do desenho Phineas e Ferb.
+Projeto de Calculadora utilizando JavaScript, desenvolvido com o objetivo de treinar funções, manipulação de eventos e estilizações com HTML e CSS.
 
 ---
 
 📌 **Funcionalidades principais:**
-- Adicionar novas tarefas
-- Marcar tarefas como feitas
-- Excluir tarefas
-- Persistência das tarefas usando LocalStorage (as tarefas permanecem salvas mesmo ao recarregar a página)
+- Operações básicas: soma, subtração, multiplicação e divisão
+- Interface simples e intuitiva
+- Exibição dinâmica dos resultados
 
 ---
 
@@ -20,9 +19,9 @@ Lista de tarefas desenvolvida com HTML, CSS e JavaScript, com design inspirado n
 ---
 
 🚀 **Objetivo do projeto:**
-- Praticar manipulação de DOM e eventos em **JavaScript**
-- Exercitar o uso de LocalStorage para persistência de dados no navegador
-- Criar uma interface divertida e personalizada
+- Praticar a criação de funções em **JavaScript**
+- Exercitar manipulação de eventos e DOM
+- Aprimorar habilidades de estilização com CSS
 
 ---
 
